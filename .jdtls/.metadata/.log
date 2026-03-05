@@ -1,0 +1,4014 @@
+!SESSION 2026-03-02 10:29:58.451 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -data .jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:20.005
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:20.927
+!MESSAGE Started org.eclipse.buildship.core 184ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:20.928
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:21.624
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:21.796
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:21.802
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:22.796
+!MESSAGE ProjectRegistryRefreshJob finished 1866ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:23.193
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:23.195
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:23.228
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:23.322
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:29.208
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:29.210
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:57.197
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-02 10:30:57.267
+!MESSAGE Failed to import projects
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:211)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:95)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:305)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:291)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:843)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:130)
+	at org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:242)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-02 10:30:57.269
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 2 unknown 0 0 2026-03-02 10:30:57.269
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-02 10:30:57.269
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-02 10:30:57.292
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:177)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2026-03-02 10:30:57.292
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-02 10:30:57.292
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 3 unknown 0 0 2026-03-02 10:30:57.292
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2026-03-02 10:30:57.292
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:57.299
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:57.323
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-02 10:30:57.344
+!MESSAGE Failed to import projects
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:211)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:95)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:305)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:291)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:843)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:130)
+	at org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:242)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-02 10:30:57.345
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 2 unknown 0 0 2026-03-02 10:30:57.345
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-02 10:30:57.345
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-02 10:30:57.356
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:177)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2026-03-02 10:30:57.356
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-02 10:30:57.357
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 3 unknown 0 0 2026-03-02 10:30:57.357
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2026-03-02 10:30:57.357
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:57.363
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:57.397
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:57.399
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:57.432
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:30:57.711
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:31:02.546
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:31:03.576
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:31:03.585
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:31:03.600
+!MESSAGE Validated 1. Took 438 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:33:41.740
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:33:42.481
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:33:42.484
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:33:42.548
+!MESSAGE Validated 1. Took 122 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:01.183
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:01.644
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:01.646
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:01.649
+!MESSAGE Validated 1. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:01.918
+!MESSAGE Reconciled 1. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:02.070
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:02.297
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:02.695
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:02.737
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:02.753
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:02.796
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:02.889
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:02.893
+!MESSAGE Reconciled 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:03.047
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:03.321
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:03.425
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:03.625
+!MESSAGE Reconciled 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:03.690
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:03.749
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:03.891
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:04.006
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:04.142
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:04.461
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:04.896
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:04.898
+!MESSAGE 2 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:04.923
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:04.925
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:04.927
+!MESSAGE Validated 2. Took 63 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:07.299
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:07.736
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:07.738
+!MESSAGE 2 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:07.743
+!MESSAGE Validated 1. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:07.808
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:07.813
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:07.965
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:07.972
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:08.356
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:08.706
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:08.827
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:08.829
+!MESSAGE 2 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:08.855
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:08.856
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:08.858
+!MESSAGE Validated 2. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:09.098
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:09.577
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:09.819
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:09.820
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:10.273
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:10.274
+!MESSAGE 2 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:10.313
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:10.317
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:10.319
+!MESSAGE Validated 2. Took 87 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:12.092
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:12.523
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:12.525
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:12.527
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:12.809
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:13.239
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:13.241
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:13.260
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:13.262
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 10:53:13.263
+!MESSAGE Validated 2. Took 50 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:40.803
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:41.232
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:41.234
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:41.236
+!MESSAGE Validated 1. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:42.148
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:42.618
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:42.620
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:42.654
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:42.656
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:42.664
+!MESSAGE Validated 2. Took 105 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:49.736
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:50.177
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:50.178
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:01:50.180
+!MESSAGE Validated 1. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:33.052
+!MESSAGE Reconciled 1. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:33.366
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:33.473
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:33.755
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:33.863
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:33.893
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:33.914
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:33.990
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:34.072
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:34.188
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:34.205
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:34.748
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:34.751
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:34.806
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:34.808
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 11:53:34.811
+!MESSAGE Validated 2. Took 187 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:38.426
+!MESSAGE Reconciled 1. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:38.549
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:38.682
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:38.753
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:38.890
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:38.919
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:39.013
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:39.032
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:39.234
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:39.316
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:39.388
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:39.755
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:39.943
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:40.128
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:40.134
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:40.244
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:40.245
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:40.532
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:41.185
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:41.188
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:41.191
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:41.241
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:41.669
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:41.671
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:41.673
+!MESSAGE Validated 2. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:41.814
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:42.040
+!MESSAGE Reconciled 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:42.299
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:42.466
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:42.468
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:42.534
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:42.808
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:42.922
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:43.039
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:43.464
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:43.466
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:43.497
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:43.499
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:43.501
+!MESSAGE Validated 2. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:43.803
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:44.216
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:44.218
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:44.234
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:44.235
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:05:44.237
+!MESSAGE Validated 2. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:00.330
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:00.771
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:00.772
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.000
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.208
+!MESSAGE Reconciled 1. Took 145 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.298
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.351
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.471
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.472
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.484
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.486
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.488
+!MESSAGE Validated 2. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:01.563
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:02.052
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:02.053
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:02.065
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:02.066
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:02.067
+!MESSAGE Validated 2. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:04.192
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:04.455
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:04.472
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:04.538
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:04.544
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:04.727
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:04.733
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:04.809
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:04.812
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:05.229
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:05.231
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:05.285
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:05.316
+!MESSAGE Duplicate modifier for the method home in type HelloController is of type DuplicateModifierForMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:05.317
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:05.319
+!MESSAGE Validated 2. Took 103 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:05.998
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.436
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.438
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.456
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.458
+!MESSAGE Duplicate modifier for the method home in type HelloController is of type DuplicateModifierForMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.460
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.461
+!MESSAGE Validated 2. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.708
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.774
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.906
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:06.987
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:07.236
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:07.648
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:07.651
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:07.668
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:07.669
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:07.671
+!MESSAGE Validated 2. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:07.843
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:08.109
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:08.263
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:08.685
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:08.686
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:08.698
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:08.700
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:08.702
+!MESSAGE Validated 2. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:10.363
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:10.520
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:10.637
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:10.721
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:10.840
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:10.872
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:10.967
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:11.037
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:11.209
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:11.269
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:11.346
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:11.556
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:11.696
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:11.822
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:11.824
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:11.968
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:12.019
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:12.449
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:12.452
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:12.471
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:12.472
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:06:12.473
+!MESSAGE Validated 2. Took 50 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:13.535
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:14.021
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:14.022
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:14.035
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:14.036
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:14.037
+!MESSAGE Validated 2. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:15.023
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:15.441
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:15.443
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:15.487
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:15.491
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:15.492
+!MESSAGE Validated 2. Took 67 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:21.457
+!MESSAGE Completion request cancelled
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:21.570
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:21.587
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:21.698
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:21.748
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:21.847
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:22.338
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:22.341
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:22.359
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:22.361
+!MESSAGE 4 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:22.363
+!MESSAGE Validated 2. Took 60 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:22.872
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:23.895
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:23.896
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:10:23.899
+!MESSAGE Validated 2. Took 624 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:20.805
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:21.140
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:21.414
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:21.848
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:21.850
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:21.868
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:21.870
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:21.873
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:24.428
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:24.859
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:24.860
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:24.882
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:24.882
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:24.883
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:25.847
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:26.313
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:26.314
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:26.327
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:26.329
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:26.330
+!MESSAGE Validated 2. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:27.794
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:28.032
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:28.226
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:28.446
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:28.648
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:28.866
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:29.106
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:29.424
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:29.648
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:29.876
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:30.028
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:30.289
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:30.424
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:30.685
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:30.889
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:31.132
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:31.516
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:31.717
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.134
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.135
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.149
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.150
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.152
+!MESSAGE Validated 2. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.290
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.722
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.723
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.736
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.738
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:32.740
+!MESSAGE Validated 2. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:33.998
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:34.170
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:34.584
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:34.586
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:34.595
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:34.595
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:34.597
+!MESSAGE Validated 2. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:34.845
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:34.988
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:35.186
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:35.358
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:35.564
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:35.719
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:35.846
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:36.277
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:36.277
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:36.292
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:36.292
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 12:12:36.294
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 13:37:07.685
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 13:37:07.693
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 13:37:07.940
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-02 13:37:07.992
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-03-05 10:07:24.808 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -data .jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:51.693
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:52.375
+!MESSAGE Started org.eclipse.buildship.core 393ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:52.377
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:53.863
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:53.876
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:53.940
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:55.945
+!MESSAGE ProjectRegistryRefreshJob finished 3563ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:56.393
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:56.394
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:56.425
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:56.495
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:56.497
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:56.565
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:59.506
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-05 10:07:59.911
+!MESSAGE Failed to import projects
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:211)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:95)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:305)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:291)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:843)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:130)
+	at org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:242)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-05 10:07:59.913
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 2 unknown 0 0 2026-03-05 10:07:59.913
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-05 10:07:59.913
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-05 10:07:59.934
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:177)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2026-03-05 10:07:59.934
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-05 10:07:59.934
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 3 unknown 0 0 2026-03-05 10:07:59.934
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2026-03-05 10:07:59.934
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:07:59.941
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:00.033
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-05 10:08:00.056
+!MESSAGE Failed to import projects
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:211)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:95)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:305)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:291)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:843)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:130)
+	at org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:242)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-05 10:08:00.057
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 2 unknown 0 0 2026-03-05 10:08:00.057
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-05 10:08:00.057
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-05 10:08:00.070
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:177)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2026-03-05 10:08:00.071
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-05 10:08:00.071
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 3 unknown 0 0 2026-03-05 10:08:00.071
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2026-03-05 10:08:00.071
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:00.079
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:00.105
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:00.107
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:02.257
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:02.583
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:02.697
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:03.487
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:03.498
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:03.597
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:03.599
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:03.665
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:03.668
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:08:03.672
+!MESSAGE Validated 3. Took 370 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:16.186
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:16.866
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:16.868
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:16.870
+!MESSAGE Validated 1. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:17.371
+!MESSAGE Reconciled 1. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:17.642
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:17.856
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:17.857
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:17.900
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:17.902
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:17.933
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:17.936
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:17.938
+!MESSAGE Validated 3. Took 164 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:18.128
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:18.432
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:18.635
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:18.701
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.064
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.065
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.067
+!MESSAGE Validated 1. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.374
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.502
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.646
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.741
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.786
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.797
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.924
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:19.939
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.231
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.293
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.343
+!MESSAGE Reconciled 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.352
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.429
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.473
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.873
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.877
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.900
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.902
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.920
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.921
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:20.923
+!MESSAGE Validated 3. Took 85 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:21.332
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:21.782
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:21.786
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:21.792
+!MESSAGE Validated 1. Took 57 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:21.888
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:22.309
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:22.310
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:22.334
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:22.336
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:22.358
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:22.360
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:22.361
+!MESSAGE Validated 3. Took 71 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:23.401
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:23.849
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:23.850
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:23.852
+!MESSAGE Validated 1. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:24.466
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:24.577
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:24.766
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:24.826
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:24.876
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:24.898
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:25.382
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:25.383
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:25.410
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:25.412
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:25.428
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:25.429
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:25.431
+!MESSAGE Validated 3. Took 123 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:26.924
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:27.360
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:27.361
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:27.363
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:27.704
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:27.954
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:28.169
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:28.202
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:28.345
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:28.350
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:28.517
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:28.523
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:28.628
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:28.665
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:28.935
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:29.391
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:29.393
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:29.413
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:29.414
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:29.431
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:29.432
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:29.434
+!MESSAGE Validated 3. Took 84 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:30.213
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:30.527
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:30.786
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:30.831
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:30.873
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:31.090
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:31.146
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:31.152
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:31.194
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:31.204
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:31.629
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:31.631
+!MESSAGE 4 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:31.635
+!MESSAGE Validated 1. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:31.971
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:32.396
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:32.399
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:32.423
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:32.425
+!MESSAGE 4 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:32.446
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:32.447
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:32.449
+!MESSAGE Validated 3. Took 74 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:33.251
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:33.471
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:33.581
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:33.765
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:33.770
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:33.835
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:33.861
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:34.285
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:34.287
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:34.288
+!MESSAGE Validated 1. Took 24 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:34.931
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:35.176
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:35.348
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:35.539
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:35.985
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:35.988
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:36.021
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:36.026
+!MESSAGE 4 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:36.048
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:36.054
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:36.059
+!MESSAGE Validated 3. Took 101 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:36.538
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:36.619
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:36.870
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:36.882
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:37.037
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:37.108
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:37.235
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:37.245
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:37.690
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:37.693
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:37.697
+!MESSAGE Validated 1. Took 47 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:38.301
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:38.758
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:38.762
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:38.825
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:38.827
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:38.846
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:38.847
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:38.849
+!MESSAGE Validated 3. Took 144 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:39.075
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:39.549
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:39.551
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:39.554
+!MESSAGE Validated 1. Took 63 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:39.695
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:40.135
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:40.137
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:40.177
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:40.179
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:40.217
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:40.219
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:40.221
+!MESSAGE Validated 3. Took 121 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:40.626
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.060
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.063
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.067
+!MESSAGE Validated 1. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.224
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.663
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.665
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.684
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.685
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.701
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.703
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.705
+!MESSAGE Validated 3. Took 70 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.792
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:41.859
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:42.087
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:42.106
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:42.141
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:42.144
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:42.348
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:42.354
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:42.403
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:42.409
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:42.584
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:43.001
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:43.279
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:43.502
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:43.521
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:43.881
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:43.895
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:43.946
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:43.949
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:44.005
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:44.012
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:44.102
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:44.551
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:44.553
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:44.555
+!MESSAGE Validated 1. Took 51 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:44.986
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.336
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.769
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.771
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.791
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.792
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.805
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.807
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.808
+!MESSAGE Validated 3. Took 70 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.931
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:45.983
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:46.007
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:46.040
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:46.163
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:46.598
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:46.660
+!MESSAGE This method must return a result of type String is of type ShouldReturnValue
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:46.669
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:46.680
+!MESSAGE Validated 1. Took 96 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.033
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.451
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.452
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.477
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.482
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.514
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.673
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.824
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.883
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:47.945
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:48.009
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:48.202
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:48.354
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:48.531
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:48.602
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:48.625
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:48.752
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:49.160
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:49.313
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:49.751
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:49.753
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:49.762
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:49.763
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:49.765
+!MESSAGE Validated 2. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:49.803
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:49.822
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:50.058
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:50.124
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:50.464
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:50.869
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:51.242
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:51.664
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:51.666
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:51.685
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:51.686
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:51.686
+!MESSAGE Validated 2. Took 42 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:51.959
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:52.026
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:52.510
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:52.512
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:52.536
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:52.538
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:52.539
+!MESSAGE Validated 2. Took 61 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:53.833
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:54.087
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:54.102
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:54.267
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:54.275
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:54.763
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:54.765
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:54.781
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:54.782
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:54.784
+!MESSAGE Validated 2. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:55.256
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:55.473
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:55.485
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:55.673
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:55.728
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:55.810
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:55.823
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.071
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.090
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.181
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.213
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.461
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.481
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.909
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.911
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.925
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.927
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:56.928
+!MESSAGE Validated 2. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:09:59.872
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:10:00.294
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:10:00.295
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:10:00.308
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:10:00.309
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:10:00.311
+!MESSAGE Validated 2. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:11:17.272
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:11:17.753
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:11:17.754
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:11:17.805
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:11:17.807
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:11:17.809
+!MESSAGE Validated 2. Took 132 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:12.588
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:12.953
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:13.220
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:13.484
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:13.936
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:13.940
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:13.973
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:13.975
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:13.977
+!MESSAGE Validated 2. Took 83 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:14.131
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:14.161
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:14.231
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:14.260
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:14.303
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:14.380
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:14.588
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:14.862
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:15.196
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:15.478
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:15.827
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:16.155
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:16.589
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:16.590
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:16.608
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:16.609
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:16.610
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:17.314
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:17.588
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.028
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.034
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.078
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.081
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.083
+!MESSAGE Validated 2. Took 91 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.138
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.209
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.308
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.343
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.378
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.444
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.484
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.535
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.657
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:18.865
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:19.162
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:19.478
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:19.956
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:19.958
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:19.971
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:19.973
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:19.974
+!MESSAGE Validated 2. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:34.580
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:34.654
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:35.106
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:35.109
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:35.125
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:35.127
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:35.132
+!MESSAGE Validated 2. Took 86 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:36.050
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:36.201
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:36.387
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:36.494
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:36.813
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:36.814
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:36.829
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:36.831
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:36.833
+!MESSAGE Validated 2. Took 42 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:37.818
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:37.957
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:38.111
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:38.530
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:38.532
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:38.549
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:38.550
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:38.552
+!MESSAGE Validated 2. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:38.964
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:39.208
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:39.428
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:39.471
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:39.866
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:39.867
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:39.902
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:39.903
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:39.905
+!MESSAGE Validated 2. Took 62 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.071
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.112
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.290
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.300
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.726
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.729
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.757
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.760
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.762
+!MESSAGE Validated 2. Took 65 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.855
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:40.877
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:41.149
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:41.234
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:41.335
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:41.432
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:41.498
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:41.550
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:41.644
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:41.679
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:42.114
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:42.117
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:42.120
+!MESSAGE Validated 2. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:42.394
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:42.877
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:42.880
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:42.897
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:42.898
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:42.899
+!MESSAGE Validated 2. Took 50 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:43.021
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:43.079
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:43.124
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:43.214
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:43.319
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:43.635
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:44.063
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:44.505
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:44.507
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:44.534
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:44.536
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:44.560
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:44.562
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:13:44.564
+!MESSAGE Validated 3. Took 99 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:01.624
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:02.097
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:02.100
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:02.102
+!MESSAGE Validated 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:13.877
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:14.363
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:14.364
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:14.376
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:14.380
+!MESSAGE Duplicate method home() in type HelloController is of type DuplicateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:14.382
+!MESSAGE Duplicate method home() in type HelloController is of type DuplicateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:14.383
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:14.395
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:14.396
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:14.397
+!MESSAGE Validated 3. Took 67 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:17.883
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.025
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.149
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.168
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.308
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.329
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.742
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.744
+!MESSAGE Duplicate method home() in type HelloController is of type DuplicateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.747
+!MESSAGE Duplicate method home() in type HelloController is of type DuplicateMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.748
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:18.752
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:24.580
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:24.735
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:24.968
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.111
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.541
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.543
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.555
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.556
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.564
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.568
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.569
+!MESSAGE Validated 3. Took 50 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.598
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:25.743
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:26.120
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:26.148
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:26.353
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:26.419
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:26.455
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:26.474
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:26.573
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:26.598
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:27.013
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:27.014
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:27.015
+!MESSAGE Validated 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.271
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.705
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.707
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.722
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.723
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.731
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.732
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.733
+!MESSAGE Validated 3. Took 57 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.820
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.886
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:30.927
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:31.069
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:31.501
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:31.503
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:31.505
+!MESSAGE Validated 1. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:31.664
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:31.792
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:31.950
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:31.963
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.084
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.103
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.163
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.182
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.299
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.315
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.329
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.530
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.669
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:32.828
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:33.230
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:33.381
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:33.800
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:33.802
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:33.815
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:33.817
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:33.824
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:33.826
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:33.827
+!MESSAGE Validated 3. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:34.578
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:34.997
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:34.998
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:14:34.999
+!MESSAGE Validated 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:07.983
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:08.360
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:08.744
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:09.117
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:09.560
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:09.563
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:09.650
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:10.082
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:10.084
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:10.094
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:10.095
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:15:10.097
+!MESSAGE Validated 2. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:03.043
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:03.485
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:03.487
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:03.502
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:03.503
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:03.504
+!MESSAGE Validated 2. Took 47 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:06.517
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:06.587
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:06.937
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:06.939
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:06.952
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:06.953
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:06.955
+!MESSAGE Validated 2. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:07.380
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:07.618
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:07.879
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:07.893
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:08.319
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:08.322
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:08.336
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:08.337
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:08.338
+!MESSAGE Validated 2. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:09.295
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:09.303
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:09.747
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:09.762
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.200
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.202
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.212
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.213
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.215
+!MESSAGE Validated 2. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.241
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.251
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.449
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.454
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.752
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.754
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.894
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:10.900
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:11.012
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:11.018
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:11.439
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:11.440
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:11.453
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:11.455
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:11.458
+!MESSAGE Validated 2. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:11.803
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.308
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.311
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.340
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.342
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.346
+!MESSAGE Validated 2. Took 78 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.490
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.922
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.924
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.939
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.940
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:12.942
+!MESSAGE Validated 2. Took 50 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:13.789
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:14.233
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:14.235
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:14.250
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:14.251
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:14.253
+!MESSAGE Validated 2. Took 62 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:15.494
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:15.621
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:15.815
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:15.837
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:15.942
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:15.963
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:16.396
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:16.397
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:16.409
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:16.410
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:16.411
+!MESSAGE Validated 2. Took 42 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:17.726
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:18.162
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:18.165
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:18.179
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:18.180
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:18.184
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:18.805
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:19.130
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:19.293
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:19.333
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:19.497
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:19.503
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:19.722
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:19.767
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:19.830
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:19.845
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:20.037
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:20.452
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:20.453
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:20.467
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:20.468
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:20.469
+!MESSAGE Validated 2. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:20.667
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.024
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.250
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.253
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.366
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.383
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.431
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.439
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.559
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.571
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:21.690
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:22.107
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:22.108
+!MESSAGE 4 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:22.117
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:22.118
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:22.127
+!MESSAGE Validated 2. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:22.584
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:22.723
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:22.946
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.020
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.075
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.098
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.324
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.348
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.759
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.760
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.774
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.775
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:23.777
+!MESSAGE Validated 2. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:24.971
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:25.408
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:25.410
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:25.418
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:25.419
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:25.420
+!MESSAGE Validated 2. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:25.688
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:26.005
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:26.440
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:26.443
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:26.473
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:26.476
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:26.479
+!MESSAGE Validated 2. Took 70 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:56.271
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:56.696
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:56.698
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:56.714
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:56.715
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:56.717
+!MESSAGE Validated 2. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:56.979
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:57.267
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:57.461
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:57.505
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:57.593
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:57.602
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:58.010
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:58.012
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:58.024
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:58.025
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:58.026
+!MESSAGE Validated 2. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:58.722
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:58.918
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:59.206
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:59.633
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:59.635
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:59.651
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:59.652
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:59.653
+!MESSAGE Validated 2. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:29:59.934
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:00.012
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:00.024
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:00.140
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:00.142
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:00.575
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:00.577
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:00.593
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:00.594
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:00.596
+!MESSAGE Validated 2. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:02.686
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:02.700
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:02.907
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:02.958
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:03.380
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:03.381
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:03.391
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:03.392
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:03.393
+!MESSAGE Validated 2. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:03.908
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:03.919
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:04.062
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:04.062
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:04.302
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:04.363
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:04.563
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:04.566
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:05.029
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:05.031
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:05.040
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:05.041
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:05.042
+!MESSAGE Validated 2. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:08.222
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:08.639
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:08.641
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:08.650
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:08.651
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:08.653
+!MESSAGE Validated 2. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:08.908
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:08.917
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:09.355
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:09.356
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:09.371
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:09.372
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:30:09.374
+!MESSAGE Validated 2. Took 43 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.142
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.242
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.374
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.385
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.483
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.495
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.620
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.625
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.704
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.711
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:35.815
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.155
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.252
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.385
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.432
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.858
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.859
+!MESSAGE This method must return a result of type JSONObject is of type ShouldReturnValue
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.860
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.868
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.869
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:36.874
+!MESSAGE Validated 2. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:38.126
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:38.546
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:38.547
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:38.579
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:38.853
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:38.944
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.099
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.129
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.169
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.555
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.557
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.568
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.569
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.571
+!MESSAGE Validated 2. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.777
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:39.983
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:40.182
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:40.418
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:40.843
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:40.844
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:40.861
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:40.873
+!MESSAGE This method must return a result of type JSONObject is of type ShouldReturnValue
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:40.874
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:40.875
+!MESSAGE Validated 2. Took 53 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:41.488
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:41.746
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:41.957
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:41.965
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.052
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.057
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.481
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.481
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.491
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.492
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.493
+!MESSAGE Validated 2. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.529
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.532
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.950
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.951
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.965
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.966
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:42.967
+!MESSAGE Validated 2. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:43.563
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:43.578
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:43.776
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:43.793
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:43.906
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:43.923
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:44.143
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:44.157
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:44.385
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:44.817
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:44.818
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:44.835
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:44.838
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:44.839
+!MESSAGE Validated 2. Took 52 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:44.948
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:45.240
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:45.656
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:45.657
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:45.672
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:45.673
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:45.674
+!MESSAGE Validated 2. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:45.921
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:46.398
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:46.399
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:46.409
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:46.410
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:46.412
+!MESSAGE Validated 2. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:48.037
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:48.457
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:48.458
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:48.469
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:48.470
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:48.472
+!MESSAGE Validated 2. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:50.052
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:50.469
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:50.471
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:50.483
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:50.484
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:50.486
+!MESSAGE Validated 2. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:51.254
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:51.679
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:51.680
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:51.693
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:51.694
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:51.695
+!MESSAGE Validated 2. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:51.792
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:52.217
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:52.218
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:52.246
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:52.248
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:52.249
+!MESSAGE Validated 2. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:54.768
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:54.974
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:55.219
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:55.646
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:55.647
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:55.657
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:55.658
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:55.659
+!MESSAGE Validated 2. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:56.248
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:56.661
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:56.662
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:56.669
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:56.671
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:56.672
+!MESSAGE Validated 2. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:56.999
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:57.172
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:57.592
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:57.593
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:57.660
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:57.899
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:58.059
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:58.474
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:58.476
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:58.486
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:58.487
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:32:58.488
+!MESSAGE Validated 2. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:33:00.431
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:33:00.886
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:33:00.886
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:33:00.944
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:33:00.945
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:33:00.947
+!MESSAGE Validated 2. Took 105 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:39:39.299
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:39:39.727
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:39:39.728
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:39:39.740
+!MESSAGE begin problem for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:39:39.742
+!MESSAGE 1 problems reported for /SarvilApiApplicationTests.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 10:39:39.745
+!MESSAGE Validated 2. Took 33 ms
