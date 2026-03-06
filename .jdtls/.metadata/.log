@@ -15871,3 +15871,4170 @@ Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace loc
 
 !ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 11:42:25.977
 !MESSAGE Validated 4. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:24.854
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:25.302
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:25.307
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:25.307
+!MESSAGE Validated 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:25.890
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.310
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.314
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.333
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.335
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.342
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.343
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.344
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.349
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.350
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.351
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.352
+!MESSAGE Validated 4. Took 60 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.496
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.896
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:26.907
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:27.002
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:27.022
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:27.112
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:27.129
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:27.226
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:27.283
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:27.719
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:27.721
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:27.722
+!MESSAGE Validated 1. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:28.862
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.240
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.479
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.902
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.903
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.923
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.924
+!MESSAGE 8 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.943
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.945
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.946
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.955
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.957
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.958
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:29.959
+!MESSAGE Validated 4. Took 73 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:30.241
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:30.487
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:30.595
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:30.611
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:30.846
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:30.860
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:31.292
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:31.293
+!MESSAGE 8 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:31.310
+!MESSAGE Validated 1. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:31.525
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:31.974
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:32.402
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:32.822
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:32.823
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:32.858
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:33.279
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:33.279
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:33.285
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:33.287
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:33.287
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:33.297
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:33.298
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:33.299
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:33.299
+!MESSAGE Validated 3. Took 34 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:35.093
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:35.530
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:35.531
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:35.546
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:35.547
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:35.547
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:35.619
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.053
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.054
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.066
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.067
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.068
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.081
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.082
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.083
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.085
+!MESSAGE Validated 3. Took 58 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.371
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.786
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.787
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.806
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.817
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:36.820
+!MESSAGE Validated 2. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:40.833
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:41.318
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:41.319
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:41.326
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:41.327
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:41.328
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:41.334
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:41.339
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:41.339
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:41.340
+!MESSAGE Validated 3. Took 50 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:42.017
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:42.091
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:42.511
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:42.513
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:42.525
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:42.526
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:42.527
+!MESSAGE Validated 2. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:42.999
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.349
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.783
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.784
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.793
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.794
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.794
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.804
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.805
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.806
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.807
+!MESSAGE Validated 3. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:43.977
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:44.360
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:44.379
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:44.764
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:44.813
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:45.283
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:45.284
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:45.298
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:45.299
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:45.300
+!MESSAGE Validated 2. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:45.618
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:45.635
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:46.045
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:46.054
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:46.256
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:46.299
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:46.607
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:46.622
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:46.840
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:46.879
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.038
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.073
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.516
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.517
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.528
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.531
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.532
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.544
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.545
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.546
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.547
+!MESSAGE Validated 3. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.690
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:47.698
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.119
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.121
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.153
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.155
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.158
+!MESSAGE Validated 2. Took 56 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.455
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.880
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.882
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.887
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.888
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.889
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.906
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.907
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.908
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:48.909
+!MESSAGE Validated 3. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:50.399
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:50.826
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:50.827
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:50.843
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:50.844
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:50.845
+!MESSAGE Validated 2. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:50.966
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:51.412
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:51.413
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:51.422
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:51.423
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:51.424
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:51.434
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:51.434
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:51.435
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:00:51.437
+!MESSAGE Validated 3. Took 55 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:25.050
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:25.099
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:25.517
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:25.518
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:25.539
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:25.540
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:25.541
+!MESSAGE Validated 2. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:25.715
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.129
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.130
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.138
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.139
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.140
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.149
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.160
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.161
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.162
+!MESSAGE Validated 3. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.437
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.685
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.846
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:26.876
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:27.056
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:27.076
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:27.207
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:27.208
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:27.420
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:27.431
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:27.569
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:27.753
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:27.897
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.037
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.050
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.142
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.256
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.303
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.332
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.720
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.721
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.731
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.732
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.733
+!MESSAGE Validated 2. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:28.988
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.176
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.594
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.596
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.605
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.607
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.608
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.621
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.623
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.623
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:29.624
+!MESSAGE Validated 3. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:30.377
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:30.499
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:30.652
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:30.729
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:30.823
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:30.928
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:31.085
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:31.109
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:31.435
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:31.772
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.186
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.187
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.227
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.320
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.403
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.464
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.541
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.556
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.634
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:32.637
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.099
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.100
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.110
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.111
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.112
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.125
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.126
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.127
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.129
+!MESSAGE Validated 3. Took 78 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.771
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:33.831
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:34.252
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:34.254
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:34.268
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:34.269
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:34.270
+!MESSAGE Validated 2. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:39.689
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:40.105
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:40.106
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:40.115
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:40.116
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:40.117
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:40.126
+!MESSAGE begin problem for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:40.127
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "main.java.com.company.sarvil_api" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:40.128
+!MESSAGE 2 problems reported for /Topics1.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:01:40.129
+!MESSAGE Validated 3. Took 36 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:18:48.493
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:18:48.635
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-05 12:18:50.713
+!MESSAGE Shutdown received... waking up main thread
+!SESSION 2026-03-06 10:22:07.930 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -data .jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:33.311
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:33.907
+!MESSAGE Started org.eclipse.buildship.core 231ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:33.910
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:35.344
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:35.405
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:35.687
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:38.166
+!MESSAGE ProjectRegistryRefreshJob finished 4236ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:38.891
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:38.893
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:38.939
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:39.020
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:39.022
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:42.037
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:22:42.048
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-06 10:22:42.788
+!MESSAGE Failed to import projects
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:211)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:95)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:305)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:291)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:843)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:130)
+	at org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:242)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-06 10:22:42.791
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 2 unknown 0 0 2026-03-06 10:22:42.791
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-06 10:22:42.791
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-06 10:24:21.177
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:177)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2026-03-06 10:24:21.177
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-06 10:24:21.177
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 3 unknown 0 0 2026-03-06 10:24:21.177
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2026-03-06 10:24:21.177
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:21.195
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:21.460
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-06 10:24:21.472
+!MESSAGE Failed to import projects
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:211)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:95)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:305)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:291)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:843)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:130)
+	at org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:242)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-06 10:24:21.473
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 2 unknown 0 0 2026-03-06 10:24:21.473
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-06 10:24:21.473
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-06 10:24:21.476
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:177)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2026-03-06 10:24:21.476
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-06 10:24:21.476
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 3 unknown 0 0 2026-03-06 10:24:21.476
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2026-03-06 10:24:21.476
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:21.487
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:21.517
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:21.519
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:23.274
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:23.514
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:24.209
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:24.217
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:24.371
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:24.372
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:24.375
+!MESSAGE Validated 2. Took 258 ms
+!SESSION 2026-03-06 10:24:45.669 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -data .jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:50.542
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:50.875
+!MESSAGE Started org.eclipse.buildship.core 164ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:50.877
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:51.931
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:51.962
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:52.033
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:53.601
+!MESSAGE ProjectRegistryRefreshJob finished 2717ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:53.907
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:53.909
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:53.937
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:53.999
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:54.300
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-06 10:24:54.702
+!MESSAGE Failed to import projects
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:211)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:95)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:305)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:291)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:843)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:130)
+	at org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:242)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-06 10:24:54.704
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 2 unknown 0 0 2026-03-06 10:24:54.704
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-06 10:24:54.704
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-06 10:24:57.019
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:177)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2026-03-06 10:24:57.019
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-06 10:24:57.019
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 3 unknown 0 0 2026-03-06 10:24:57.019
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2026-03-06 10:24:57.020
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:57.034
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:57.062
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:57.064
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:58.658
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:58.760
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:59.068
+!MESSAGE Reconciled 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:59.320
+!MESSAGE Reconciled 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:59.712
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:59.762
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:59.847
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:59.907
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:24:59.943
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:00.007
+!MESSAGE Reconciled 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:00.055
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:00.728
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:00.734
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:00.822
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:00.824
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:00.827
+!MESSAGE Validated 2. Took 212 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:04.078
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:04.082
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:04.218
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:25:04.232
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY org.eclipse.core.resources 4 0 2026-03-06 10:29:59.066
+!MESSAGE Error occurred while reading master table file
+!STACK 0
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.base/java.nio.charset.CoderResult.throwException(CoderResult.java:279)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:405)
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:190)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160)
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3419)
+	at org.eclipse.core.internal.resources.SaveManager.getBadSequenceNumberErrorMessage(SaveManager.java:1670)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1651)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1330)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1321)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1294)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1205)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2026-03-06 10:29:59.071
+!MESSAGE An internal error occurred during: "Periodic workspace save.".
+!STACK 0
+java.lang.IllegalArgumentException: Cannot set lower sequence number for root (previous: 3, new: 2). Location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resourcesTimestamps and tree sequence numbers from file:
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:68)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1652)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1330)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1321)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1294)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1205)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:38:57.115
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:38:57.554
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:38:57.578
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:38:57.579
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 10:38:57.582
+!MESSAGE Validated 1. Took 59 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:39.054
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:39.925
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:39.927
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:40.003
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:40.011
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:40.023
+!MESSAGE Validated 2. Took 562 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:40.250
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:40.482
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:40.793
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:41.001
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:41.592
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:41.696
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:42.189
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:42.191
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:42.217
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:42.223
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:42.280
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:42.331
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:42.334
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:05:42.338
+!MESSAGE Validated 3. Took 204 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:01.848
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:02.272
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:02.278
+!MESSAGE 1 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:02.284
+!MESSAGE Validated 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:04.613
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.065
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.068
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.106
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.530
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.539
+!MESSAGE 1 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.561
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.563
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.578
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.580
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.584
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:05.586
+!MESSAGE Validated 3. Took 64 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:24.241
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:24.749
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:24.751
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:24.762
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:24.764
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:24.772
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:24.774
+!MESSAGE Validated 2. Took 71 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:24.882
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:25.301
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:25.310
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:25.312
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:25.341
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:25.343
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:25.375
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:25.378
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:25.396
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:25.399
+!MESSAGE Validated 3. Took 114 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:48.294
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:48.373
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:48.737
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:48.739
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:48.768
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:48.770
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:48.772
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:48.774
+!MESSAGE Validated 2. Took 68 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:48.861
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:49.103
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:49.225
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:49.244
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:49.423
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:49.466
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:49.746
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:49.793
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:49.853
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:49.857
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.309
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.312
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.315
+!MESSAGE 4 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.354
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.357
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.380
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.385
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.387
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.390
+!MESSAGE Validated 3. Took 124 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.587
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:50.596
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:51.093
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:51.096
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:51.136
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:51.138
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:51.142
+!MESSAGE 4 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:51.144
+!MESSAGE Validated 2. Took 142 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:52.754
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:53.259
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:53.540
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:53.705
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:53.709
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:53.869
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:53.937
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:54.080
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:54.088
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:54.177
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:54.236
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:54.360
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:54.759
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:54.974
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:55.074
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:55.098
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:55.209
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:55.270
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:55.542
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:55.615
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:55.933
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:56.363
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:56.364
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:56.390
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:56.392
+!MESSAGE 1 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:56.411
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:56.717
+!MESSAGE Reconciled 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:56.873
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:56.876
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:57.094
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:57.098
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:57.387
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:57.433
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:57.549
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:57.557
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.045
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.047
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.049
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.076
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.079
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.094
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.096
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.098
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.100
+!MESSAGE Validated 3. Took 90 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.419
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.467
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.719
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.729
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:58.940
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:59.002
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:59.502
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:59.503
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:59.514
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:59.515
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:59.516
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:06:59.520
+!MESSAGE Validated 2. Took 62 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:01.580
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:01.584
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:01.688
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:01.750
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:01.853
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:01.907
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:02.350
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:02.352
+!MESSAGE 1 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:02.361
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:02.368
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:02.577
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:02.588
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:02.893
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:03.096
+!MESSAGE Reconciled 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:03.115
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:03.176
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:03.252
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:03.311
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:03.672
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:03.875
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.050
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.157
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.385
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.813
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.815
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.826
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.828
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.829
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.845
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.848
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.862
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.864
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.866
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:04.869
+!MESSAGE Validated 4. Took 81 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:05.309
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:05.735
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:05.737
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:05.738
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:05.740
+!MESSAGE Validated 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.175
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.627
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.629
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.642
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.644
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.645
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.656
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.658
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.669
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.670
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.671
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:06.673
+!MESSAGE Validated 4. Took 96 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:21.766
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:22.214
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:22.216
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:22.222
+!MESSAGE Validated 1. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:22.739
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.149
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.622
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.629
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.645
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.647
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.649
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.661
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.663
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.674
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.676
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.678
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:23.680
+!MESSAGE Validated 4. Took 111 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:27.223
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:27.672
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:27.674
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:27.675
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:27.680
+!MESSAGE Validated 1. Took 52 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.056
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.493
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.495
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.508
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.509
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.514
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.525
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.527
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.537
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.538
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.541
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.543
+!MESSAGE Validated 4. Took 80 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:44.939
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:45.382
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:45.384
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:45.385
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:45.390
+!MESSAGE Validated 1. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:53.507
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:53.774
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.222
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.223
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.249
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.251
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.253
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.270
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.272
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.284
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.285
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.286
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:54.288
+!MESSAGE Validated 4. Took 110 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:58.596
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:59.042
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:59.044
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:59.045
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:07:59.047
+!MESSAGE Validated 1. Took 35 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:06.231
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:06.437
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:06.648
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.142
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.146
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.222
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.225
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.227
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.256
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.258
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.280
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.282
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.286
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:07.290
+!MESSAGE Validated 4. Took 177 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:23.972
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:24.402
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:24.406
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:24.408
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:24.409
+!MESSAGE Validated 1. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:24.699
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:24.808
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.001
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.071
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.220
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.234
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.378
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.381
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.594
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.658
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.765
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:25.905
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.345
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.346
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.362
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.363
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.367
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.377
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.378
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.387
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.390
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.391
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:26.393
+!MESSAGE Validated 4. Took 70 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:27.051
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:27.241
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:27.360
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:27.529
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:27.550
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:27.713
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:27.872
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.170
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.172
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.174
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.180
+!MESSAGE Validated 1. Took 61 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.258
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.627
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.712
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.755
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.884
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:28.890
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.328
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.330
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.348
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.350
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.351
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.361
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.363
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.379
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.381
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.382
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.384
+!MESSAGE Validated 4. Took 98 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.477
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.542
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.902
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.905
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.905
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:29.908
+!MESSAGE Validated 1. Took 26 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:30.404
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:30.861
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:30.865
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:30.917
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:30.920
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:30.922
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:30.956
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:31.167
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:31.214
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:31.531
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:31.567
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:31.791
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:31.821
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.115
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.156
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.593
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.594
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.595
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.609
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.610
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.620
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.621
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.622
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:32.624
+!MESSAGE Validated 3. Took 64 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:34.005
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:34.382
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:34.815
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:34.816
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:34.833
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:34.834
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:34.836
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:34.837
+!MESSAGE Validated 2. Took 52 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:35.103
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:35.272
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:35.421
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:35.485
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:35.678
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:35.757
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:35.782
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:35.788
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:35.995
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.063
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.124
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.287
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.498
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.639
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.733
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.777
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.823
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.928
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:36.967
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:37.179
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:37.615
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:37.617
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:37.618
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:37.630
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:37.631
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:37.678
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.108
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.109
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.128
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.130
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.132
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.142
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.143
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.145
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.146
+!MESSAGE Validated 3. Took 66 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.425
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.442
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.640
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:38.672
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:39.029
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:39.093
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:39.379
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:39.834
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:39.836
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:39.837
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:39.849
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:39.851
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:39.855
+!MESSAGE Validated 2. Took 47 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:40.110
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:40.463
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:40.637
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:40.890
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:40.921
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.102
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.127
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.546
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.547
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.583
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.584
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.586
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.598
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.600
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.602
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:41.605
+!MESSAGE Validated 3. Took 93 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:42.103
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:42.526
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:42.528
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:42.528
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:42.542
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:42.543
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:42.544
+!MESSAGE Validated 2. Took 37 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:42.743
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:43.168
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:43.169
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:43.215
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:43.217
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:43.220
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:43.233
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:43.235
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:43.236
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:08:43.238
+!MESSAGE Validated 3. Took 91 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:22.987
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:23.425
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:23.426
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:23.437
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:23.438
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:23.441
+!MESSAGE Validated 2. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:23.541
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:23.636
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:23.656
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:23.769
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.124
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.558
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.559
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.576
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.577
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.579
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.587
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.588
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.589
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.606
+!MESSAGE Validated 3. Took 78 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.648
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.690
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.725
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:24.814
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:25.094
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:25.591
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:25.593
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:25.676
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:25.712
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:25.812
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:25.901
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:25.922
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:25.950
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:26.021
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:26.105
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:26.216
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:26.512
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:26.999
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.000
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.023
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.024
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.025
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.045
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.047
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.054
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.056
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.057
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:27.058
+!MESSAGE Validated 4. Took 93 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:37.062
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:37.496
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:37.497
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:37.499
+!MESSAGE Validated 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.125
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.611
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.612
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.643
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.644
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.646
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.684
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.685
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.705
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.706
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.708
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:38.709
+!MESSAGE Validated 4. Took 182 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:43.462
+!MESSAGE Completion request cancelled
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:43.571
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:43.573
+!MESSAGE Reconciled 1. Took 13 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:43.679
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:43.778
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.102
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.104
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.105
+!MESSAGE Validated 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.242
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.805
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.807
+!MESSAGE 6 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.913
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.921
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.924
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.986
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:44.988
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:45.010
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:45.012
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:45.013
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:45.015
+!MESSAGE Validated 4. Took 316 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:45.622
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:45.829
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:46.056
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:46.113
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:46.218
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:46.369
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:46.393
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:46.398
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:46.880
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:46.882
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:46.884
+!MESSAGE Validated 1. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.102
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.105
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.535
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.536
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.564
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.566
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.568
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.580
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.582
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.596
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.598
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.599
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:51.601
+!MESSAGE Validated 4. Took 96 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:52.386
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:52.855
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:52.856
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:52.858
+!MESSAGE Validated 1. Took 69 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.207
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.648
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.650
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.675
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.676
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.677
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.688
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.690
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.701
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.703
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.704
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.705
+!MESSAGE Validated 4. Took 95 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:54.779
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.004
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.122
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.184
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.304
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.318
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.457
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.464
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.897
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.899
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:55.901
+!MESSAGE Validated 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:56.201
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:56.228
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:56.402
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:56.414
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:56.535
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:56.596
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:56.805
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:56.810
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:57.154
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:57.160
+!MESSAGE Reconciled 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:57.241
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:57.305
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:57.504
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:57.557
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:57.825
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:58.252
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:58.260
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:58.261
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:58.277
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:58.279
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:58.296
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:58.298
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:58.299
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:09:58.302
+!MESSAGE Validated 4. Took 73 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:19.972
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:20.440
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:20.442
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:20.444
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:20.830
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.249
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.250
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.268
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.269
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.270
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.282
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.283
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.295
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.296
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.297
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.298
+!MESSAGE Validated 4. Took 66 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:21.893
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:22.361
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:22.362
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:22.364
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:22.481
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:22.570
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:22.613
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:22.850
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:22.996
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.194
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.429
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.851
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.856
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.881
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.883
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.885
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.897
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.898
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.913
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.917
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.918
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:23.919
+!MESSAGE Validated 4. Took 88 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:24.081
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:24.311
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:24.657
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:25.121
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:25.123
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:25.125
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:25.444
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:25.720
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:25.876
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:25.940
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:26.074
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:26.137
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:26.489
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:26.504
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:26.739
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:26.803
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.284
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.286
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.303
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.305
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.306
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.324
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.326
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.336
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.337
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.338
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:27.340
+!MESSAGE Validated 4. Took 82 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:28.920
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:29.403
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:29.404
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:29.406
+!MESSAGE Validated 1. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.190
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.674
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.676
+!MESSAGE This method must return a result of type List<Topics> is of type ShouldReturnValue
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.678
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.698
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.699
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.701
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.715
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.716
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.725
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.726
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.727
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:36.729
+!MESSAGE Validated 4. Took 86 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:38.282
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:38.460
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:38.596
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:38.643
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:38.765
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:38.822
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:38.940
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:38.945
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:39.377
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:39.377
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:39.379
+!MESSAGE Validated 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.131
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.core.resources 4 0 2026-03-06 11:10:40.307
+!MESSAGE Error occurred while reading master table file
+!STACK 0
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.base/java.nio.charset.CoderResult.throwException(CoderResult.java:279)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:405)
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:190)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160)
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3419)
+	at org.eclipse.core.internal.resources.SaveManager.getBadSequenceNumberErrorMessage(SaveManager.java:1670)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1651)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1330)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1321)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1294)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1205)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2026-03-06 11:10:40.310
+!MESSAGE An internal error occurred during: "Periodic workspace save.".
+!STACK 0
+java.lang.IllegalArgumentException: Cannot set lower sequence number for root (previous: 3, new: 2). Location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resourcesTimestamps and tree sequence numbers from file:
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:68)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1652)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1330)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1321)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1294)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1205)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.568
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.570
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.590
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.592
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.593
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.602
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.603
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.611
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.613
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.614
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:40.615
+!MESSAGE Validated 4. Took 82 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:41.040
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:41.159
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:41.424
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:41.651
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:41.932
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:42.118
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:42.346
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:42.730
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:43.171
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:43.173
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:43.176
+!MESSAGE Validated 1. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:52.053
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:52.249
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:52.426
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:52.625
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:52.685
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.177
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.179
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.193
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.194
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.196
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.204
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.205
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.216
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.217
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.218
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.226
+!MESSAGE Validated 4. Took 74 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.247
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.307
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.450
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.495
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.630
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.636
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.847
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:53.906
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:54.032
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:54.081
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:54.547
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:54.555
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:54.561
+!MESSAGE Validated 1. Took 77 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:58.369
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:58.826
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:58.827
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:58.850
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.276
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.277
+!MESSAGE This method must return a result of type Topics is of type ShouldReturnValue
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.278
+!MESSAGE 3 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.307
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.310
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.312
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.339
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.340
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.352
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.361
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.362
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.363
+!MESSAGE Validated 4. Took 100 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.564
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.673
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.867
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.871
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:10:59.997
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:00.024
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:00.137
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:00.141
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:00.632
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:00.636
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:00.640
+!MESSAGE Validated 1. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.365
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.800
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.802
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.817
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.819
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.820
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.829
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.830
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.837
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.839
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.840
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:01.841
+!MESSAGE Validated 4. Took 59 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:02.370
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:02.401
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:02.842
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:02.843
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:02.844
+!MESSAGE Validated 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:17.610
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:17.931
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.110
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.158
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.591
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.595
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.610
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.612
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.613
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.621
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.622
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.630
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.632
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.634
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:18.636
+!MESSAGE Validated 4. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:19.297
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:19.306
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:19.501
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:19.512
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:19.717
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:19.719
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:19.938
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:19.989
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:20.124
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:20.130
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:20.542
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:20.543
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:20.545
+!MESSAGE Validated 1. Took 18 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:22.320
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:22.328
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:22.589
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:22.638
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.073
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.074
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.104
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.105
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.107
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.119
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.121
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.136
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.138
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.139
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:23.140
+!MESSAGE Validated 4. Took 88 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:24.091
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:24.148
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:24.307
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:24.347
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:24.764
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:24.766
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:24.767
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.080
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.415
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.530
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.947
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.948
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.968
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.970
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.972
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.985
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:25.986
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:26.000
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:26.002
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:26.003
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:26.004
+!MESSAGE Validated 4. Took 73 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:26.645
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:27.101
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:27.103
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:27.110
+!MESSAGE Validated 1. Took 54 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.372
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.822
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.823
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.824
+!MESSAGE 3 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.836
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.837
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.845
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.847
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.848
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:54.850
+!MESSAGE Validated 3. Took 70 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:55.006
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:55.425
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:55.427
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:55.448
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:55.450
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:55.452
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:11:55.453
+!MESSAGE Validated 2. Took 45 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:15.936
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:16.378
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:16.379
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:16.380
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:16.399
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:16.401
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:16.409
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:16.410
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:16.411
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:12:16.412
+!MESSAGE Validated 3. Took 72 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:00.521
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:00.961
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:00.963
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:00.967
+!MESSAGE Validated 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.236
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.664
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.665
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.704
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.707
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.709
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.739
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.740
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.750
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.753
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.754
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:01.756
+!MESSAGE Validated 4. Took 113 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:24.530
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:24.961
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:24.962
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:24.963
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:24.964
+!MESSAGE Validated 1. Took 30 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:25.507
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:25.938
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:25.940
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:25.963
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:25.965
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:25.967
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:25.984
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:25.986
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:26.001
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:26.002
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:26.004
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:26.006
+!MESSAGE Validated 4. Took 82 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:46.856
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:47.296
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:47.300
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:47.301
+!MESSAGE Validated 1. Took 38 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:49.650
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:49.768
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.258
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.263
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.295
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.304
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.305
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.323
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.324
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.332
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.343
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.343
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:13:50.344
+!MESSAGE Validated 4. Took 124 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:12.451
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:12.871
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:12.872
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:12.874
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:12.875
+!MESSAGE Validated 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.147
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.594
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.599
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.681
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.683
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.685
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.697
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.699
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.708
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.711
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.712
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:14:14.714
+!MESSAGE Validated 4. Took 164 ms
+
+!ENTRY org.eclipse.core.resources 4 0 2026-03-06 11:15:41.272
+!MESSAGE Error occurred while reading master table file
+!STACK 0
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.base/java.nio.charset.CoderResult.throwException(CoderResult.java:279)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:405)
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:190)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160)
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3419)
+	at org.eclipse.core.internal.resources.SaveManager.getBadSequenceNumberErrorMessage(SaveManager.java:1670)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1651)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1330)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1321)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1294)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1205)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2026-03-06 11:15:41.279
+!MESSAGE An internal error occurred during: "Periodic workspace save.".
+!STACK 0
+java.lang.IllegalArgumentException: Cannot set lower sequence number for root (previous: 3, new: 2). Location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resourcesTimestamps and tree sequence numbers from file:
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:68)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1652)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1330)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1321)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1294)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1205)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
