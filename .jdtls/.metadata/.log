@@ -20038,3 +20038,369 @@ java.lang.IllegalArgumentException: Cannot set lower sequence number for root (p
 	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1205)
 	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:57.024
+!MESSAGE Reconciled 1. Took 158 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:57.643
+!MESSAGE Reconciled 1. Took 68 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:57.711
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:58.636
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:58.657
+!MESSAGE 1 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:58.688
+!MESSAGE Validated 1. Took 564 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:58.691
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.220
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.222
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.286
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.294
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.300
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.351
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.352
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.394
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.402
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.405
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:54:59.407
+!MESSAGE Validated 4. Took 301 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:05.905
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:06.426
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:06.429
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:06.431
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:06.433
+!MESSAGE Validated 1. Took 123 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:06.484
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:06.646
+!MESSAGE Reconciled 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.301
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.310
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.378
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.381
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.382
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.421
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.424
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.464
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.467
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.471
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:07.474
+!MESSAGE Validated 4. Took 417 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:08.097
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:08.567
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:08.568
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:08.571
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:08.574
+!MESSAGE Validated 1. Took 72 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:13.130
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:14.044
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:14.046
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:14.108
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:14.112
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:14.114
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:14.160
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:51.129
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:51.174
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:51.176
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:51.179
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 11:55:51.181
+!MESSAGE Validated 4. Took 37236 ms
+
+!ENTRY org.eclipse.core.resources 4 0 2026-03-06 12:00:00.217
+!MESSAGE Error occurred while reading master table file
+!STACK 0
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.base/java.nio.charset.CoderResult.throwException(CoderResult.java:279)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:405)
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:190)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160)
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436)
+	at java.base/java.nio.file.Files.readAllLines(Files.java:3419)
+	at org.eclipse.core.internal.resources.SaveManager.getBadSequenceNumberErrorMessage(SaveManager.java:1670)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1651)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1330)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1321)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1294)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1205)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2026-03-06 12:00:00.229
+!MESSAGE An internal error occurred during: "Periodic workspace save.".
+!STACK 0
+java.lang.IllegalArgumentException: Cannot set lower sequence number for root (previous: 3, new: 2). Location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resourcesTimestamps and tree sequence numbers from file:
+	at org.eclipse.core.runtime.Assert.isLegal(Assert.java:68)
+	at org.eclipse.core.internal.resources.SaveManager.validateMasterTableBeforeSave(SaveManager.java:1652)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1330)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1321)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1294)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1205)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:52)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 12:35:33.703
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 12:35:33.771
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 12:35:35.281
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-06 12:35:35.478
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2026-03-08 13:26:12.883 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -data .jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:19.259
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:19.489
+!MESSAGE Started org.eclipse.buildship.core 135ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:19.491
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:20.334
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:20.349
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:20.676
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:22.483
+!MESSAGE ProjectRegistryRefreshJob finished 2988ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:22.969
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:22.971
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:23.033
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:23.204
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:23.650
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-08 13:26:23.921
+!MESSAGE Failed to import projects
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:211)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:95)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:305)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:291)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.create(ProjectConfigurationManager.java:843)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:139)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:130)
+	at org.eclipse.jdt.ls.core.internal.managers.MavenProjectImporter.importToWorkspace(MavenProjectImporter.java:242)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2026-03-08 13:26:23.923
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 2 unknown 0 0 2026-03-08 13:26:23.923
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-08 13:26:23.923
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2026-03-08 13:26:26.190
+!MESSAGE Initialization failed 
+!STACK 1
+org.eclipse.core.runtime.CoreException: Failed to import projects
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:177)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:126)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:263)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+Contains: OK
+Contains: C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+!SUBENTRY 1 org.eclipse.jdt.ls.core 4 -1 2026-03-08 13:26:26.191
+!MESSAGE Failed to import projects
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2026-03-08 13:26:26.191
+!MESSAGE Invalid project description for project 'sarvil-api' at 'file:/C:/Users/lenovo/Desktop/Sarvil/java_project' 
+!SUBENTRY 3 unknown 0 0 2026-03-08 13:26:26.191
+!MESSAGE OK
+!SUBENTRY 3 org.eclipse.core.resources 4 77 2026-03-08 13:26:26.192
+!MESSAGE C:\Users\lenovo\Desktop\Sarvil\java_project overlaps the workspace location: C:\Users\lenovo\Desktop\Sarvil\java_project\.jdtls
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:26.217
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:26.247
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:26.250
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:28.270
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:28.530
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:28.555
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:28.684
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.437
+!MESSAGE begin problem for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.466
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.472
+!MESSAGE 2 problems reported for /TopicsService.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.521
+!MESSAGE begin problem for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.524
+!MESSAGE The declared package "com.company.sarvil_api" does not match the expected package "" is of type PackageIsNotExpectedPackage
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.527
+!MESSAGE 2 problems reported for /Topics.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.578
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.580
+!MESSAGE 1 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.614
+!MESSAGE begin problem for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.618
+!MESSAGE 1 problems reported for /SarvilApiApplication.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:26:29.625
+!MESSAGE Validated 4. Took 330 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:53:21.176
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:53:21.453
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:53:23.448
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2026-03-08 13:53:23.612
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
